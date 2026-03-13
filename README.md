@@ -42,11 +42,11 @@ Se realiza un EDA exhaustivo para generar insights y predecir las implicaciones 
 </div>
 
 
-📊 **[Ver Dashboard Interactivo Completo](https://public.tableau.com/app/profile/brian.alex.fuentes.acu.a/viz/dashBoardTest/Dashboard1)**
+ **[Ver Dashboard Interactivo Completo](https://public.tableau.com/app/profile/brian.alex.fuentes.acu.a/viz/dashBoardTest/Dashboard1)**
 
 ---
 
-## 📊 Análisis Exploratorio y Limpieza de Datos
+##  Análisis Exploratorio y Limpieza de Datos
 
 ### Dataset y Preprocesamiento
 - **Dataset**: 1,470 registros con 31 variables iniciales
@@ -109,7 +109,7 @@ pipeline = Pipeline([
 
 ---
 
-## 📈 Métricas y Variables Predictivas
+## Métricas y Variables Predictivas
 
 ### Performance del Modelo
 - **AUC-ROC**: 0.78 (Random Forest optimizado)
