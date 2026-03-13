@@ -78,7 +78,7 @@ Implementación basada en estándares del *Center for American Progress*:
 
 ---
 
-## 🤖 Pipeline de Machine Learning
+## Pipeline de Machine Learning
 
 ### Arquitectura del Modelo
 ```python
