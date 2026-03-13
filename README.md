@@ -1,14 +1,14 @@
-# predictor-abandono
+# Predictor abandono
 
-## 🎯 Proyecto de Predicción de Abandono de Empleados
+## Proyecto de Predicción de Abandono de Empleados
 
 Desarrollo de un sistema completo de predicción de abandono de empleados que combina análisis de datos exploratorio, modelado de machine learning y visualización interactiva para generar insights accionables y cuantificar el impacto económico en la organización.
 
-### 📋 Visión General
+### Visión General
 
 Se realiza un EDA exhaustivo para generar insights y predecir las implicaciones económicas del abandono de empleados. Se contemplan varios modelos de machine learning del state of art para predecir el abandono y finalmente se genera un reporte interactivo en Tableau.
 
-### 🔧 Stack Tecnológico
+### Stack Tecnológico
 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, XGBoost, LightGBM, CatBoost
@@ -60,7 +60,7 @@ Se realiza un EDA exhaustivo para generar insights y predecir las implicaciones 
 
 ---
 
-## 💰 Modelado de Impacto Económico
+## Modelado de Impacto Económico
 
 ### Metodología de Costos
 Implementación basada en estándares del *Center for American Progress*:
@@ -124,7 +124,7 @@ pipeline = Pipeline([
 
 ---
 
-## 🎯 Impacto y Aplicaciones
+## Impacto y Aplicaciones
 
 ### Valor de Negocio Generado
 - **Reducción de costos**: Identificación temprana permite intervención proactiva
@@ -140,7 +140,7 @@ pipeline = Pipeline([
 
 ---
 
-## 🚀 Habilidades Demostradas
+## Habilidades Demostradas
 
 ### Data Science & Analytics
 - **EDA completo**: Análisis univariado y bivariado con visualizaciones normalizadas
@@ -159,7 +159,7 @@ pipeline = Pipeline([
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 ├── ds_simulacion.ipynb    # Notebook principal con análisis completo
